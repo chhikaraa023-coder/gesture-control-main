@@ -49,22 +49,16 @@ to detect hand gestures and convert them into presentation controls like:
 
 # 📦 Installation
 
-## Step 1 — Clone Project
-
-```bash
-git clone https://github.com/shivam-kotwalia/gesture-control
-cd gesture-control
-```
 
 ---
 
-## Step 2 — Install Dependencies
+## Step 1 — Install Dependencies
 
 ```bash
 pip3 install -r requirements.txt
 ```
 
-## Step 3 — Download Hand Landmarker Model
+## Step 2 — Download Hand Landmarker Model
 
 ```bash
 python3 setup_models.py
